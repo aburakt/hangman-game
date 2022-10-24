@@ -2,4 +2,4 @@
 
 for try the app
 
-click [here](https://github.com/aburakt/hangman-game)
+click [here](https://aburakt.github.io/hangman-game/)
